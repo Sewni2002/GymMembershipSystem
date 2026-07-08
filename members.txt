@@ -1,0 +1,2 @@
+M001,sewniii,s@gmail.com,1010101010,PREMIUM,2026-07-08,false
+M002,himasha,h@gmail.com,1122112211,BASIC,2026-07-08,true

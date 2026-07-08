@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GymMembershipSystem.iml" filepath="$PROJECT_DIR$/GymMembershipSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Version_A_Traditional.iml" filepath="$PROJECT_DIR$/Version_A_Traditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Version_B_AI_Assisted.iml" filepath="$PROJECT_DIR$/Version_B_AI_Assisted.iml" />
     </modules>
   </component>
 </project>
